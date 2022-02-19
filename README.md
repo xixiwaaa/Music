@@ -1,4 +1,4 @@
-# qq_music1
+# music
 
 ## Project setup
 ```
